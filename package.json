@@ -1,0 +1,27 @@
+{
+  "name": "ipfy",
+  "version": "1.0.0",
+  "description": "Simple IP logger that logs and creates file as log.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iplogger",
+    "simple ip logger",
+    "logger"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushgarg195/Node-IP-Logger.git"
+  },
+  "author": "Piyush Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushgarg195/Node-IP-Logger/issues"
+  },
+  "homepage": "https://github.com/piyushgarg195/Node-IP-Logger#readme",
+  "dependencies": {
+   
+  }
+}
