@@ -1,6 +1,6 @@
 {
   "name": "ipfy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple IP logger that logs and creates file as log.txt",
   "main": "index.js",
   "scripts": {
